@@ -1,3 +1,5 @@
 /build
-/dist/file_manager/_internal
+/dist
 /file_manager.spec
+/.venv
+*.exe
