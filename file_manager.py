@@ -164,7 +164,6 @@ def build(count, path):
             pbar.update(1)
             time.sleep(0.1)
     print("end of the tasks...")
-    sayBye()
     input("please Enter to exit...")
 
 
